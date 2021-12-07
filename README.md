@@ -1,7 +1,7 @@
 # Camilo Laruffa
 - Técnico en Computación.
 - Estudiante de Ciencias de la Computación.
-- Estudiante Desarrollador Web Full-stack
+- Estudiante para Desarrollador Web Full-stack.
 
 :computer: www.camilolaruffa.tk
 
